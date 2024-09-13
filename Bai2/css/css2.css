@@ -1,0 +1,99 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+.wrapper{
+    height:900px ;
+    width:  100% ;
+    background-color: white;
+}
+.top-menu{
+    margin-top: 10px;
+    height: 14%;
+    width: 98% ;
+    background-image: url("background.png");
+}
+.content{
+    padding-top: 15px;
+    height: 5%;
+    width: 98% ;
+    background-color: #b1afab;
+}
+.menu{
+    height: 80%;
+    width: 98% ;
+    background-color: #b1afab  ;
+}
+.menu-left{
+    height: 96%;
+    width: 28.4% ;
+    background-color: white;
+    float: left;
+}
+.khung{
+    margin-top: 30px;
+    height:37%;
+    width: 90% ;
+    background-color:   #e7e6e2;
+    float: right;
+
+    margin-bottom: 40px;
+}
+.menu-middle{
+    height: 96%;
+    width: 41.9% ;
+    background-color:  white;
+    float: left;
+}
+.menu-right{
+    height: 96%;
+    width: 29.5% ;
+    background-color:  white;
+    float: right;
+}
+.menu-bottom{
+    margin-top: 5px;
+    float: left;
+    height: 3%;
+    width: 100% ;
+    background-color: #b1afab;
+}
+.logo{
+   
+    width: 6%;
+    height: auto;
+    margin-top:  10px;
+    margin-left: 10px;
+    float: left;
+}
+.tieude{
+    margin-top: 40px;
+    margin-left: 50px;
+    line-height: 30px;
+    width: 500px;
+    height: 40px;
+    font-size: 40px;
+    padding-left: 20px;
+    text-align: left;
+    float: left;
+}
+.tieude1{
+    width: 400px;
+    height: 20px;
+    font-size: 25px;
+    text-align: left;
+    float: left;
+}
+.thumuc{
+    padding-left: 20px; 
+    padding-top: 8px;
+    font-size: 25px;
+    padding-right: 50px;
+}
+.hinh{
+    width: 96%;
+    height: 85%;
+    margin-top: 2%;
+    margin-left: 2%;
+   
+}

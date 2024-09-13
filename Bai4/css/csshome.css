@@ -1,0 +1,177 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+.wrapper{
+    height:970px ;
+    width:  80% ;
+    background-color: white;
+    border: 5px;
+    border-color: #cc911c;
+    border-width: 1px;
+    border-style: groove;
+
+}
+.top-menu{
+    height: 10%;
+    width: 100% ;
+    float: left;
+    background-color: white;
+}
+.gach3{
+    height: 1%;
+    width: 100% ;
+    float: left;
+    background-color: #ffa500;
+}
+.top-l{
+    height: 70%;
+    width: 25% ;
+    float: right;
+    background-image: url("scraps.jpg");
+}
+.menu{
+    height: 90%;
+    width: 100%;
+    float: left;
+    background-color: white;
+}
+.menu-left{
+    height: 100%;
+    width: 15% ;
+    float: left;
+    background-image: url("back.jpg");
+}
+.menu-right{
+    height: 100%;
+    width: 85% ;
+    float: right;
+}
+.text{
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: rgb(8, 8, 80);
+}
+.gach{
+    font-size: 15px;
+    color: #ffa500;
+    padding-left: 10px;
+}
+.heading{
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    height: 7%;
+    width: 40% ;
+    font-size: 50px;
+    float: left;
+   color:  #ffa500;
+}
+.doan1{
+    padding-top: 15px;
+    width: 90%;
+    font-size: 23px;
+    float: left;
+    padding-left: 50px;
+    color: rgb(114, 11, 36);
+}
+.doan{
+    padding-top: 15px;
+    width: 41%;
+    font-size: 23px;
+    float: left;
+    padding-left: 50px;
+    color: rgb(114, 11, 36);
+}.hinh{
+    margin-top: 10px;
+    margin-right: 15px;
+    height: auto;
+    width: 20% ;
+    float: right;
+}
+.khungnoidung{
+    margin-top: 50px;
+    margin-right: 100px;
+    height: 34%;
+    width: 33% ;
+    background-color: white;
+    float: right;
+    border-color: #ffa500;
+    border-width: 7px;
+    border-style: groove;
+    color: rgb(114, 11, 36);
+
+}
+.rong{
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    height: 7%;
+    width: 50% ;
+    font-size: 50px;
+    float: right
+}
+.doan2{
+    padding-top: 15px;
+    width: 90%;
+    font-size: 23px;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    color: rgb(114, 11, 36);
+}
+.noidung{
+    padding-top: 8px;
+    font-size: 17px;
+    padding-bottom: 5px;
+    color: rgb(114, 11, 36);
+}
+.hinhlon{
+    position: relative;
+    margin-top: 100px;
+    margin-right: 100px;
+    height: 85%;
+    width: 65% ;
+    float: left;
+    margin-left: 50px;
+    background-image: url(sample.jpg);
+}
+.khungghi{
+position: absolute;
+margin-top: 310px;
+height: 18%;
+width: 10% ;
+border-color: #ffa500;
+border-width: 7px;
+border-style: groove;
+font-size: 17px;
+padding: 5px;
+color: rgb(114, 11, 36);
+}
+.khungghi1{
+margin-top: 50px;
+position: absolute;
+margin-left: 650px;
+height: 22%;
+width: 14% ;
+border-color: #ffa500;
+border-width: 7px;
+border-style: groove;
+font-size: 17px;
+padding: 5px;
+color: rgb(114, 11, 36);
+}
+.khungghi2{
+    margin-top: 550px;
+    position: absolute;
+    margin-left: 570px;
+    height: 17%;
+    width: 13% ;
+    border-color: #ffa500;
+    border-width: 7px;
+    border-style: groove;
+    font-size: 17px;
+    padding: 5px;
+    color: rgb(114, 11, 36);
+    }
